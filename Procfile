@@ -1,0 +1,1 @@
+web: herokuAddr=siteproxy.aqingyuan.repl.co npm run start
