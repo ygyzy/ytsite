@@ -1,1 +1,1 @@
-web: herokuAddr=siteproxy.aqingyuan.repl.co npm run start
+web: replitAddr=ytsite.aqingyuan.repl.co npm run start
