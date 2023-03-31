@@ -1,1 +1,1 @@
-web: replitAddr=ytsite.aqingyuan.repl.co npm run start
+web: replitAddr=ytsite.52qy.repl.co npm run start
